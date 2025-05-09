@@ -1,0 +1,7 @@
+Flask
+langchain
+langgraph
+chromadb
+ollama
+langchain-community
+langchain-ollama
